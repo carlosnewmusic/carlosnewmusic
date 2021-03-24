@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosnewmusic
 - :office: &nbsp;Working at my project [ElectroDanceWorld Radio](https://linktr.ee/ElectroDanceWorldRadio)
-- 👀 I’m interested in [UX&UI](https://github.com/ionic-team/ionic-framework/issues?q=is%3Aissue+author%3Acarlosnewmusic+), Frontend Development, IT Systems Especially Linux, GDPR compliance and [internet privacy, Cibersecurity](https://t.me/s/linuxSegurInteresInformatica?q=carlos), Testing
+- 👀 I’m interested in [UX&UI, Frontend Development](https://github.com/ionic-team/ionic-framework/issues?q=is%3Aissue+author%3Acarlosnewmusic+), IT Systems Especially Linux, GDPR compliance and [internet privacy, Cibersecurity](https://t.me/s/linuxSegurInteresInformatica?q=carlos), Testing
 - 🌱 I’m currently learning LPIC-1
 - 💞️ I’m looking to collaborate on any project related to my interests
 - 📫 [How to reach me](https://www.linkedin.com/in/carlos-rasc%C3%B3n-garcia/)
