@@ -1,4 +1,14 @@
 - 👋 Hi, I’m @carlosnewmusic
+
+   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=carlosnewmusic&repo=carlosnewmusic&countColorcountColor&countColor=%237B1E7A)
+   
+### Languages
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="JSES6" src="https://img.shields.io/badge/javascript%20-%23E34F26.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> ![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript) ![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3) <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-%234ea94b.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+### Frameworks
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+### Databases 
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
 - :office: &nbsp;Working at my project [ElectroDanceWorld Radio](https://linktr.ee/ElectroDanceWorldRadio)
 - 👀 I’m interested in [UX&UI, Frontend Development](https://github.com/ionic-team/ionic-framework/issues?q=is%3Aissue+author%3Acarlosnewmusic+), IT Systems Especially Linux, GDPR compliance and [internet privacy, Cibersecurity](https://t.me/s/linuxSegurInteresInformatica?q=carlos), Testing
 - 🌱 I’m currently learning CEH by EC Council
