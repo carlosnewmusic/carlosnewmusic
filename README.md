@@ -9,9 +9,9 @@
 ### Databases 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-- :office: &nbsp;Working at my project [ElectroDanceWorld Radio](https://linktr.ee/ElectroDanceWorldRadio)
+- :office: &nbsp;Working at my project [ElectroDanceWorld Radio](https://beacons.ai/electrodanceworldradio/)
 - 👀 I’m interested in [UX&UI, Frontend Development](https://github.com/ionic-team/ionic-framework/issues?q=is%3Aissue+author%3Acarlosnewmusic+), IT Systems Especially Linux, GDPR compliance and [internet privacy, Cibersecurity](https://t.me/s/linuxSegurInteresInformatica?q=carlos), Testing
-- 🌱 I’m currently learning CEH by EC Council
+- 🌱 CEH by EC Council, LPIC-1
 - 💞️ I’m looking to collaborate on any project related to my interests
 - 📫 [How to reach me](https://www.linkedin.com/in/carlos-rasc%C3%B3n-garcia/)
 
